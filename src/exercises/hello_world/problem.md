@@ -16,6 +16,6 @@ Now, check if the code in the exercise window looks alright and fix it if needed
 
 (Wait, what is the `let () =` part? We'll get to that part soon!)
 
-# Problem Statement
+## Problem Statement
 
 Use `print_endline` to print out "Hello, world!"
