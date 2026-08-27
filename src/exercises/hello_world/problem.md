@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 This series of exercises takes you through the basic syntax and concepts of OCaml. All exercies can be run right here in your browser.
 
 We start with the basics and build up to the more advanced concepts. The objective is to write a (very simple) clone of FFTW in OCaml.
+=======
+Let's start with the classic "Hello World" program.
+>>>>>>> upstream/template
 
 (Fun fact, while FFTW is a C library, the core `genfft` part is written in OCaml)
 
@@ -16,6 +20,10 @@ Now, check if the code in the exercise window looks alright and fix it if needed
 
 (Wait, what is the `let () =` part? We'll get to that part soon!)
 
-# Problem Statement
+## Problem Statement
 
+<<<<<<< HEAD
 Use `print_endline` to print out "Hello, world!"
+=======
+Print out `Hello, world!` to the console output.
+>>>>>>> upstream/template
